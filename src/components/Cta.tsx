@@ -8,7 +8,7 @@
 
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
-import { ArrowRight, Briefcase, Gavel, Scales, Handshake } from "lucide-react"
+import { ArrowRight, Briefcase, Gavel, Scale, Handshake } from "lucide-react"
 
 export default function CTA() {
   const stats = [
@@ -116,7 +116,7 @@ export default function CTA() {
 
             <div className="space-y-2">
               <div className="size-12 mx-auto rounded-full bg-blue-100 dark:bg-blue-900/20 flex items-center justify-center mb-3">
-                <Scales className="size-6 text-blue-500" />
+                <Scale className="size-6 text-blue-500" />
               </div>
               <h3 className="font-semibold">Comprehensive Services</h3>
               <p className="text-sm text-muted-foreground">
