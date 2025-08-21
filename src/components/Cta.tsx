@@ -14,7 +14,7 @@ export default function CTA() {
   const stats = [
     { value: "25+", label: "Years of Experience", icon: Briefcase },
     { value: "99.9%", label: "Client Satisfaction", icon: Handshake },
-    { value: "100+", label: "Corporate Clients", icon: Scales },
+    { value: "100+", label: "Corporate Clients", icon: Scale },
     { value: "24/7", label: "Legal Support", icon: Gavel }
   ]
 
